@@ -21,26 +21,7 @@
       }
     }
   },
-  "keywords": [
-    "ui",
-    "ux",
-    "design",
-    "design-systems",
-    "accessibility",
-    "anti-slop",
-    "frontend",
-    "backend",
-    "architecture",
-    "engineering",
-    "gis",
-    "mapping",
-    "geospatial",
-    "analytics",
-    "data-visualization",
-    "motion",
-    "figma",
-    "visual-qa"
-  ],
+  "keywords": ["ui", "ux", "design", "design-systems", "accessibility", "anti-slop", "frontend", "backend", "architecture", "engineering", "gis", "mapping", "geospatial", "analytics", "data-visualization", "motion", "figma", "visual-qa"],
   "license": "MIT",
   "name": "design-intelligence-studio",
   "version": "1.0.1"
