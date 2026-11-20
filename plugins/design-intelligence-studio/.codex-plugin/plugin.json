@@ -1,0 +1,44 @@
+{
+  "interface": {
+    "capabilities": [],
+    "category": "Creativity",
+    "defaultPrompt": [
+      "Use Design Intelligence Studio to design or improve this interface.",
+      "Audit this UI for UX issues and AI-slop patterns.",
+      "Create a product-specific design system for this project."
+    ],
+    "developerName": "Ade Brega",
+    "displayName": "Design Intelligence Studio",
+    "longDescription": "A 14-skill toolkit spanning product design and software delivery: UI/UX intelligence, frontend art direction, product UX and flows, design systems, visual foundations, motion, responsive accessibility, Figma-to-interface implementation, visual QA, anti-slop audits, software architecture and code engineering, frontend and backend engineering, GIS and mapping engineering, and data visualization and analytics. It provides reusable instructions and Markdown references without installing a runtime, CLI, API, or MCP server.",
+    "shortDescription": "Design & engineering skills"
+  },
+  "name": "design-intelligence-studio",
+  "version": "1.0.1",
+  "description": "A 14-skill product design and engineering toolkit covering UI/UX intelligence, art direction, UX flows, design systems, frontend and backend engineering, software architecture, GIS, data visualization, accessibility, Figma implementation, visual QA, and anti-slop audits.",
+  "author": {
+    "name": "Ade Brega",
+    "email": "adebrega3@gmail.com"
+  },
+  "keywords": [
+    "ui",
+    "ux",
+    "design",
+    "design-systems",
+    "accessibility",
+    "anti-slop",
+    "frontend",
+    "backend",
+    "architecture",
+    "engineering",
+    "gis",
+    "mapping",
+    "geospatial",
+    "analytics",
+    "data-visualization",
+    "motion",
+    "figma",
+    "visual-qa"
+  ],
+  "license": "MIT",
+  "skills": "./skills"
+}
