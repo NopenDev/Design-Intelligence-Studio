@@ -1,0 +1,20 @@
+{
+  "name": "nopendev-design-tools",
+  "interface": {
+    "displayName": "NopenDev Design Tools"
+  },
+  "plugins": [
+    {
+      "name": "design-intelligence-studio",
+      "source": {
+        "source": "local",
+        "path": "./plugins/design-intelligence-studio"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Developer Tools"
+    }
+  ]
+}
