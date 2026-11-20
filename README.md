@@ -10,21 +10,44 @@ A reusable 14-skill toolkit for product design and software delivery: UI/UX inte
 - `plugins/design-intelligence-studio/` — complete plugin source
 - `plugins/design-intelligence-studio/skills/` — 14 skill definitions and references
 
-## Install in ChatGPT Desktop
+## How to use it
 
-1. Clone or download this repository to a permanent local folder.
-2. In ChatGPT Desktop, open the Plugins/marketplace management area available in your version.
-3. Add this repository folder as a local marketplace root.
-4. Find **Design Intelligence Studio** and install it.
-5. Start a new chat and use the skill relevant to your task.
+### Option A — ChatGPT Desktop / local marketplace
 
-Menu labels and local marketplace availability can vary by app version. This repository is a local distribution source; it does not automatically publish the plugin to a global public directory.
+1. Install or open the ChatGPT Desktop app.
+2. Clone this repository to a permanent folder, or download the ZIP and extract it.
+3. In ChatGPT Desktop, open **Settings → Plugins** and find the local marketplace management option (labels can differ by app version).
+4. Add the extracted repository folder as a local marketplace. The marketplace manifest is at `.agents/plugins/marketplace.json`.
+5. Install **Design Intelligence Studio** from the marketplace.
+6. Start a new chat and select/use the plugin where available.
 
-## For friends
+Local marketplace support is app-version dependent. A GitHub repository being public does not automatically publish it to ChatGPT's global plugin directory.
 
-Share: https://github.com/NopenDev/Design-Intelligence-Studio
+### Option B — Codex CLI
 
-Each person must clone/download the repository and register the local marketplace in their own supported desktop environment. The ChatGPT browser extension is not a plugin ZIP installer.
+For a Codex CLI installation that supports plugin marketplaces, run:
+
+```bash
+codex plugin marketplace add NopenDev/Design-Intelligence-Studio
+```
+
+Then open the plugin browser/management command supported by your installed Codex version, install **design-intelligence-studio**, and restart or start a new session if requested. If the command is not recognized, update Codex CLI and consult its current plugin documentation.
+
+## How friends can get it
+
+Send them this repository:
+
+https://github.com/NopenDev/Design-Intelligence-Studio
+
+Or send the ZIP download page:
+
+https://github.com/NopenDev/Design-Intelligence-Studio/archive/refs/heads/main.zip
+
+They can download/extract it and follow Option A or Option B above. Each person installs it in their own environment; installing the ChatGPT browser extension alone does not install this plugin.
+
+## Privacy
+
+The public plugin manifests identify the maintainer by display name only. No personal contact email is required for installation.
 
 ## Versioning
 
