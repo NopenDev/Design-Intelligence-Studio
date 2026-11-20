@@ -1,7 +1,6 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "author": {
-    "email": "adebrega3@gmail.com",
     "name": "Ade Brega"
   },
   "description": "A 14-skill product design and engineering toolkit covering UI/UX intelligence, art direction, UX flows, design systems, frontend and backend engineering, software architecture, GIS, data visualization, accessibility, Figma implementation, visual QA, and anti-slop audits.",
