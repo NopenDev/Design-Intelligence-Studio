@@ -3,7 +3,7 @@
   "author": {
     "name": "Ade Brega"
   },
-  "description": "A 14-skill product design and engineering toolkit covering UI/UX intelligence, art direction, UX flows, design systems, frontend and backend engineering, software architecture, GIS, data visualization, accessibility, Figma implementation, visual QA, and anti-slop audits.",
+  "description": "A 21-skill product design and engineering toolkit spanning UI/UX, art direction, design systems, accessibility, Figma implementation, visual QA, anti-slop audits, modern web platform engineering, software architecture, frontend/backend engineering, databases and distributed systems, algorithms, testing, AI engineering, critical reasoning, GIS, and data visualization.",
   "extensions": {
     "com.openai": {
       "interface": {
@@ -12,17 +12,18 @@
         "defaultPrompt": [
           "Use Design Intelligence Studio to design or improve this interface.",
           "Audit this UI for UX issues and AI-slop patterns.",
+          "Review this architecture or implementation with evidence-led engineering reasoning.",
           "Create a product-specific design system for this project."
         ],
         "developerName": "Ade Brega",
         "displayName": "Design Intelligence Studio",
-        "longDescription": "A 14-skill toolkit spanning product design and software delivery: UI/UX intelligence, frontend art direction, product UX and flows, design systems, visual foundations, motion, responsive accessibility, Figma-to-interface implementation, visual QA, anti-slop audits, software architecture and code engineering, frontend and backend engineering, GIS and mapping engineering, and data visualization and analytics. It provides reusable instructions and Markdown references without installing a runtime, CLI, API, or MCP server.",
-        "shortDescription": "Design & engineering skills"
+        "longDescription": "A 21-skill toolkit for product design and software delivery, including UI/UX intelligence, frontend art direction, UX flows, design systems, visual foundations, motion, responsive accessibility, Figma implementation, visual QA, anti-slop audits, software architecture, frontend/backend engineering, modern web platform engineering, database and distributed systems, algorithms, testing and debugging, AI engineering and evaluation, honest critical reasoning, research, GIS, and data visualization. It provides reusable instructions and Markdown references without installing a runtime, CLI, API, or MCP server.",
+        "shortDescription": "21 design & engineering skills"
       }
     }
   },
-  "keywords": ["ui", "ux", "design", "design-systems", "accessibility", "anti-slop", "frontend", "backend", "architecture", "engineering", "gis", "mapping", "geospatial", "analytics", "data-visualization", "motion", "figma", "visual-qa"],
+  "keywords": ["ui", "ux", "design", "design-systems", "accessibility", "anti-slop", "frontend", "backend", "architecture", "engineering", "testing", "debugging", "ai-engineering", "critical-reasoning", "database", "distributed-systems", "algorithms", "modern-web", "gis", "mapping", "analytics", "data-visualization", "motion", "figma", "visual-qa"],
   "license": "MIT",
   "name": "design-intelligence-studio",
-  "version": "1.0.1"
+  "version": "1.1.0"
 }

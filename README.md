@@ -1,20 +1,44 @@
 # Design Intelligence Studio
 
-**Version:** 1.0.1 · **Maintainer:** NopenDev · **License:** MIT
+**Version:** 1.1.0 · **Maintainer:** NopenDev · **License:** MIT
 
-A reusable 14-skill toolkit for product design and software delivery: UI/UX intelligence, art direction, product flows, design systems, visual foundations, motion, accessibility, Figma implementation, visual QA, anti-slop audits, software architecture, frontend/backend engineering, GIS, and data visualization.
+A reusable 21-skill toolkit for product design and software delivery. It covers UI/UX intelligence, art direction, product flows, design systems, visual foundations, motion, responsive accessibility, Figma implementation, visual QA, anti-slop audits, software architecture, frontend/backend engineering, modern web platform engineering, database and distributed systems, algorithmic problem solving, advanced testing and debugging, AI engineering and evaluation, critical reasoning, GIS, and data visualization.
 
 ## Repository layout
 
 - `.agents/plugins/marketplace.json` — local marketplace registration
-- `plugins/design-intelligence-studio/` — complete plugin source
-- `plugins/design-intelligence-studio/skills/` — 14 skill definitions and references
+- `plugins/design-intelligence-studio/plugin.json` — plugin metadata and version
+- `plugins/design-intelligence-studio/skills/` — 21 skill definitions
+
+## Included skills
+
+1. UI/UX Pro Max Intelligence
+2. Frontend Art Direction
+3. Product UX and Flows
+4. Design System Engineering
+5. Visual Design Foundations
+6. Motion and Interaction Design
+7. Responsive Accessibility
+8. Figma to Interface
+9. UI Visual QA
+10. Anti-Slop UI Audit
+11. Software Architecture and Code Engineering
+12. Frontend and Backend Engineering
+13. Modern Web Platform Engineering
+14. Database and Distributed Systems Engineering
+15. Algorithmic Problem Solving
+16. Advanced Testing and Debugging
+17. AI Engineering and Evaluation
+18. Honest Critical Reasoning
+19. Critical Reasoning and Research
+20. GIS and Mapping Engineering
+21. Data Visualization and Analytics
 
 ## How to use it
 
 ### Option A — ChatGPT Desktop / local marketplace
 
-1. Install or open the ChatGPT Desktop app.
+1. Install or open ChatGPT Desktop.
 2. Clone this repository to a permanent folder, or download the ZIP and extract it.
 3. In ChatGPT Desktop, open **Settings → Plugins** and find the local marketplace management option (labels can differ by app version).
 4. Add the extracted repository folder as a local marketplace. The marketplace manifest is at `.agents/plugins/marketplace.json`.
@@ -43,7 +67,7 @@ Or send the ZIP download page:
 
 https://github.com/NopenDev/Design-Intelligence-Studio/archive/refs/heads/main.zip
 
-They can download/extract it and follow Option A or Option B above. Each person installs it in their own environment; installing the ChatGPT browser extension alone does not install this plugin.
+Each person installs it in their own environment. Installing a browser extension alone does not install this plugin.
 
 ## Privacy
 
@@ -51,7 +75,7 @@ The public plugin manifests identify the maintainer by display name only. No per
 
 ## Versioning
 
-Current source: `1.0.1`. Keep the plugin manifest version and changelog aligned when releasing updates.
+Current source: `1.1.0`. Keep the plugin manifest version and changelog aligned when releasing updates.
 
 ## Scope
 
