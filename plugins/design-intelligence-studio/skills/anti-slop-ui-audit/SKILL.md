@@ -32,3 +32,10 @@ Fix the earliest structural issue with the largest impact: task clarity → hier
 
 ## False-positive control
 A clean surface may have zero findings. Do not manufacture issues to appear thorough. Separate confirmed defects from subjective opportunities. Preserve user-specified design direction and existing system authority.
+
+
+---
+Available file URIs for this installed plugin skill. Use these exact URIs when reading files:
+
+skills://plugins/design-intelligence-studio/anti-slop-ui-audit/skill.md
+skills://plugins/design-intelligence-studio/anti-slop-ui-audit/references/anti-slop-patterns.md
